@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Flutter App Updates</title>
+    <item>
+      <title>Version 2.0.0</title>
+      <sparkle:releaseNotesLink>https://example.com/release-notes.html</sparkle:releaseNotesLink>
+      <pubDate>Fri, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://example.com/download"
+        sparkle:version="2.0.0"
+        sparkle:minimumSystemVersion="1.0.0"
+      />
+    </item>
+  </channel>
+</rss>
